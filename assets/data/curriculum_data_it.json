@@ -1,0 +1,252 @@
+{
+    "personalInfo" : {
+        "name" : "Alfredo",
+        "surname" : "Fiore",
+        "genre" : "maschio",
+        "dateBirth" : "07/03/1994",
+        "nazionality" : "italiana",
+        "address" : {
+            "street" :  "via Ugo Cavalcanti",
+            "number" :  9,
+            "zipCode" :  87100,
+            "city" : "Cosenza",
+            "province" : "CS",
+            "state" : "Italia"
+        },
+        "contacts" : {
+            "mobilePhone" : ["+39 347 3017217"],
+            "homePhone" : "+39 0984 33302",
+            "mails" : ["alfredofiore@live.com", "fiorealfredo94@gmail.com", "alfredofiore.work@gmail.com"],
+            "social" : [
+                {
+                    "name" : "facebook",
+                    "value" : "",
+                    "link" : "https://www.facebook.com/alfredofiore1994"
+                },
+                {
+                    "name" : "linkedin",
+                    "value" : "",
+                    "link" : "https://www.linkedin.com/in/alfredo-fiore/"
+                },
+                {
+                    "name" : "whatsapp",
+                    "value" : "+39 3473017217",
+                    "link" : ""    
+                },
+                {
+                    "name" : "telegram",
+                    "value" : "+39 3473017217",
+                    "link" : "https://t.me/Stark_94"
+                }
+            ]
+        }
+    },
+    "experience" : {
+        "title" : "ISTRUZIONE E FORMAZIONE",
+        "experiences" : [ 
+            {
+            "dateStart" :  "06-09-2021",
+            "dateEnd" : "oggi",
+            "title" : "Contratto Part-time",
+            "description" : "Contratto Part-time 'Moveo'",
+            "type" : "work-exp"
+            },
+            {
+            "dateStart" :  "01-04-2020",
+            "dateEnd" : "05-09-2021",
+            "title" : "Contratto Part-time",
+            "description" : "Contratto part-time ‘’PC CUBE S.r.l.’’",
+            "type" : "work-exp"
+            },
+            {
+            "dateStart" :  "22-07-2019",
+            "dateEnd" : "30-03-2020",
+            "title" : "Stage Part-time",
+            "description" : "Stage part-time ‘’PC CUBE S.r.l.’’",
+            "type" : "work-exp"
+            },
+            {
+            "dateStart" :  "30-09-2013",
+            "dateEnd" : "oggi",
+            "title" : "Laurea Triennale in Ingegneria Informatica",
+            "description" : "",
+            "type" : "study-exp"
+            },
+            {
+            "dateStart" :  "24-09-2018",
+            "dateEnd" : "28-06-2019",
+            "title" : "Apple Developer Academy",
+            "description" : "Diploma Apple developer Academy Napoli",
+            "type" : "work-exp"
+            },
+            {
+            "dateStart" :  "30-09-2008",
+            "dateEnd" : "17-07-2013",
+            "title" : "Licenza Scientifica",
+            "description" : "Liceo Scientifico Statale “Enrico Fermi” (Cosenza 87100)",
+            "type" : "study-exp"
+            }
+        ] 
+    },
+    "personalSkills" : {
+        "title" : "PERSONAL SKILLS",
+        "skills" :   {
+            "languages" :  {
+                "title" : "Lingue",
+                "motherTongue" :  "Italiano",
+                "otherLanguages" : [
+                    {
+                        "title" : "Inglese", 
+                        "otherLanguage" : [
+                            {
+                                "title" : "COMPRENSIONE",
+                                "description" : [
+                                    {
+                                        "name" : "Ascolto",
+                                        "value" : "B1"
+                                    },
+                                    {
+                                        "name" : "Lettura",
+                                        "value" : "B1"
+                                    }
+                                ]
+                            },
+                            {
+                                "title" : "PARLATO",
+                                "description" : [
+                                    {
+                                        "name" : "Ascolto",
+                                        "value" : "A2"
+                                    },
+                                    {
+                                        "name" : "Lettura",
+                                        "value" : "A2"
+                                    }
+                                ]
+                            },
+                            {
+                                "title" : "PRODUZIONE SCRITTA",
+                                "description" : [
+                                    {
+                                        "name" : "",
+                                        "value" : "B1"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "comunication" :  {
+                "title" : "Competenze comunicative",
+                "description" :  [
+                    {
+                        "name" : "Possiedo buone competenze comunicative acquisite durante il mio corso di studi presso L’università della Calabria",
+                        "value" : ""
+                    }
+                ]
+            },
+            "organisational" : {
+                "title" : "Competenze organizzative e gestionali",
+                "description" : [
+                    {
+                        "name" : "Progetti di gruppo ( 6-8 persone) presso la “Apple Developer Academy”, per la realizzazione iapplicazioni IOS",
+                        "value" : ""
+                    }
+                ]
+            },
+            "managerial" : {
+                "title" : "Competenze professionali",
+                "description" : [
+                    {
+                        "name" : "Competenze nel settore della programmazione acquisite durante gli studi all’università",
+                        "value" : ["Angular 8", "Angular UI", "Java", "Java EE", "Python", "C / C++", "SQL",  "Bash Shell"]
+                    },
+                    {
+                        "name" : "Competenze nel settore della programmazione acquisite presso la “Apple Developer Academy”",
+                        "value" : ["Swift", "UI / UX"]
+                    },
+                    {
+                        "name" : "Competenze nel settore della programmazione web acquisite presso azienda",
+                        "value" : ["AngularJS", "Javascript", "Typescript", "JQuery", "JQuery UI", "CSS", "Bootstrap", "Html", "Xml", "Struts 1.1", "JSP", "IBM websphere application server (version 7, 8.5 , Liberty)"]
+                    },
+                    {
+                        "name" : "Competenze nel settore della programmazione acquisite in autonomia : ",
+                        "value" : ["CSS", "NodeJs", "Dart", "Flutter", "Telegram bot API Python e NodeJs","Swift UI"]
+                    }
+
+                ]
+            },
+            "digitalCompetence" : {
+                "title" : "Competenze digitali",
+                "description" : [
+                    {
+                        "name" : "Certificazione ECDL (European Computer Driving Licence)",
+                        "value" : "conseguita il 03/10/2012."
+                    },
+                    {
+                        "name" : "Microsoft Office",
+                        "value" : "Ottima conoscenza della suite Microsoft Office (Word, Excel, PowerPoint)."
+                    },
+                    {
+                        "name" : "Apple suite",
+                        "value" : "Ottima conoscenza della suite Apple (Keynote, Numbers, Pages)."
+                    },
+                    {
+                        "name" : "Video Editing",
+                        "value" : "Discrete conoscenze di software per il video editing (Adobe After Effects, Blender, iMovie, Sketch )."
+                    },
+                    {
+                        "name" : "Foto Editing",
+                        "value" : "Buone conoscenze di software per il photo editing (Adobe Photoshop, Gimp, Corel Drav)."
+                    },
+                    {
+                        "name" : "3D editing",
+                        "value" : "Discrete conoscenze di software per l’elaborazione 3D (3D Builder, Blender, Ultimaker Cura,Repetier-Host)."
+                    }
+                ]
+            },
+            "other" :  {
+                "title" :  "Altre competenze",
+                "description" :  [
+                    {
+                        "name" : "Competenze hardware acquisite in autonomia su",
+                        "value" : ["Laptop and PC", "Apple PC e dispositivi mobile", "Android", "Printer Ink-jet and Laser technology", "3D printing technology", "Arduino technology", "Raspberry"]   
+                    }
+                ]
+            },
+            "licenses" :  {
+                "title" :  "Patenti e licenze",
+                "description" :  [
+                    {
+                        "name" : "Patente di guida",
+                        "value" : "B"
+                    }
+                ]
+            }
+        }
+        
+    },
+    "project" :  {
+        "title" : "Progetti",
+        "projects" : [
+            {
+                "name" : "EasyMoji",
+                "value" : "Una tastiera per trovare le emoji velocemente e di scegliere gli emoji da inserire nella categoria preferiti. È stata pensata per aiutare ciechi e ipovedenti nell'uso degli emoji, ma è apprezzata da tutti grazie alla sua semplicità. Easymoji rende veloce la comunicazione tramite emoji. È attualmente disponibile per il download :  https : //apps.apple.com/it/app/easymoji/id1451984015"
+            },
+            {
+                "name" : "Webby",
+                "value" : "Webby è un gioco che aiuta le persone a riempire i momenti di noia e a godersi un viaggio in giro per l'Italia nei luoghi più importanti e famosi. Il gioco è basato su una storia di un ragno amante dei cappelli che, un giorno, ha subito una grave perdita. Dopo un lungo periodo, riesce a uscire dallo stato di confusione in cui è entrato e decide di fare un giro del mondo per riscoprire se stesso e onorare il suo perso e amato."
+            }
+        ]
+    },
+    "additionalInformation" : {
+        "title" : "ULTERIORI INFORMAZIONI",
+        "informations" :  [
+            {
+                "name" : "",
+                "value" : ""
+            }
+        ]
+    }
+}
